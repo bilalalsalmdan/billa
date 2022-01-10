@@ -489,7 +489,7 @@ fi
 done
 
 
-}
+
 
 
 friendship() {
